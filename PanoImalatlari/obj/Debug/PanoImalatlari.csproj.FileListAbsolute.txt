@@ -1,0 +1,17 @@
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\bin\Debug\PanoImalatlari.exe.config
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\bin\Debug\PanoImalatlari.exe
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\bin\Debug\PanoImalatlari.pdb
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.csprojAssemblyReference.cache
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.Properties.Resources.resources
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.csproj.GenerateResource.cache
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.csproj.CoreCompileInputs.cache
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.exe
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.pdb
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.Form1.resources
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.FormBilgi.resources
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.DataGrid.resources
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.FormGuncelle.resources
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.FormGuncellenecek.resources
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.FormAra.resources
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.FormBiten.resources
+D:\VisualStudioExamples\PanoImalatlari\PanoImalatlari\obj\Debug\PanoImalatlari.FormSil.resources
